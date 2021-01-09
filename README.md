@@ -1,13 +1,13 @@
 # Deteksi Substring
 
-Program
+## Program
 Program untuk mendeteksi dua buah kata apakah kata tersebut termasuk dalam persamaan kata, substring, pencerminan, substring pencerminan, atau bukan substring
-<br\><br\>
-Cara penggunaan program
+<br/><br/>
+## Cara penggunaan program
 -	Masukkan jumlah input kata yang ingin dilakukan dengan mengisi angka 1 hingga max 1000x
 -	Masukkan dua kata, kata pertama dan kata kedua dipisahkan dengan menggunakan spasi
-<br\><br\>
-Fungsi Program
+<br/><br/>
+## Fungsi Program
 Program ini dapat melakukan deteksi kata yang diinputkan oleh user dengan membandingkan kedua kata tersebut dengan rule seperti berikut :
 -	Jika kedua kata tersebut sama identitk maka hasilnya “Sama”
 Contoh : abc abc
